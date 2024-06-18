@@ -1,0 +1,5 @@
+               retweet_count  reply_count  like_count  quote_count
+retweet_count       1.000000     0.520631    0.860834     0.522480
+reply_count         0.520631     1.000000    0.346512     0.945248
+like_count          0.860834     0.346512    1.000000     0.322872
+quote_count         0.522480     0.945248    0.322872     1.000000
